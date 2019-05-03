@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>News Reality Check</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.8.0/Chart.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="style.css">
+  </head>
+  <body>
+    <div class="wrapper">
+      <h1>Question 1: Response Analytics</h1>
+      <h2>To what extent do you feel abortion should be legal in the United States?</h2>
+
+      <canvas id="radar-chart" width="600" height="600"></canvas>
+    </div>
+    <script src="radar.js"></script>
+
+    <button onclick="window.location.href = 'barchart.html';">Bar Graph</button>
+    <button onclick="window.location.href = 'piechart.html';">Pie Chart</button>
+    <button onclick="window.location.href = 'radar.html';">Radar Chart</button>
+
+    <div class="wrapper">
+      <h2 style="position: absolute; right: 203px; top: 275px"><b>Sort By</b></h2>
+    </div>
+
+    <button onclick="window.location.href = 'barchart_gender.html';" style="position: absolute; right: 200px; top: 300px">Gender</button>
+
+  </body>
+</html>
