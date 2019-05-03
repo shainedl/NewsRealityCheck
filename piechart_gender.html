@@ -10,12 +10,16 @@
       <h1>Question 1: Response Analytics</h1>
       <h2>To what extent do you feel abortion should be legal in the United States?</h2>
 
-      <canvas id="pie-chart" width="800" height="450"></canvas>    
+      <canvas id="pie-chart" width="800" height="450"></canvas>
     </div>
     <script src="piechart_gender_script.js"></script>
 
-    <button onclick="window.location.href = 'piechart.html';">Pie Chart</button>
     <button onclick="window.location.href = 'barchart.html';">Bar Graph</button>
-    <button onclick="window.location.href = 'piechart_gender.html';">Gender</button>
+    <button onclick="window.location.href = 'piechart.html';">Pie Chart</button>
+
+    <div class="wrapper">
+      <h2 style="position: absolute; right: 403px; top: 275px"><b>Sort By</b></h2>
+    </div>
+    <button onclick="window.location.href = 'piechart_gender.html';" style="position: absolute; right: 400px; top: 300px">Gender</button>
   </body>
 </html>
