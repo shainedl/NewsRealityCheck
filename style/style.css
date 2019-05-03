@@ -262,3 +262,19 @@ h2 {
   line-height: 17pt;
 }
 
+.head-nrc {
+  display: block;
+  margin: 0 0 16px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 300 px;
+  background-color: #E75A6B;
+  color: white;
+  font-family: 'Lato', sans-serif;
+  text-align: center;
+  font-size: 50px;
+}
+
+.wrapper {
+  margin-right: 10px;
+}
