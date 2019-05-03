@@ -1,0 +1,1 @@
+This application/ Service does not collect user data. This is implemented as part of a class project for Cornell Tech.
