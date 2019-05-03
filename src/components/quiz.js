@@ -10,10 +10,10 @@ export default class Quiz extends Component {
           <img className="img-logo" src={`../../../assets/images/logo2.jpg`}/>
         </div>
         <h1 className="site-title">
-          <a>New York State Attorney General</a>
+          <a>Heartbeat Abortion Bill</a>
         </h1>
         <h2 className="site-title-dark">
-          <a>Which candidate is most closely aligned with my views?</a>
+          <a>All responses are anonymous, so please answer as honestly as possible and complete all questions. We will not show any segment that contains less than three people in it.</a>
         </h2>
         <Questions />
         <Result />

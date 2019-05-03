@@ -11,9 +11,12 @@ export default class HomePage extends Component {
             <div className="know-ballot">
                 <Link to="/quiz">Get Started!</Link>
             </div>
-            <div className="NYC-background">
-                <img className="img-logo" src={`../../../assets/images/NYC_image.jpg`}/>
-            </div>
+            <iframe width="560" height="450"
+                src="https://www.youtube.com/embed/x6BGVKFOrMM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+            </iframe>
+            <iframe width="560" height="450"
+                src="https://www.youtube.com/embed/8oqJiNzJQ_E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+            </iframe>
             <div className="know-ballot">
                 <p>Know your ballot.</p>
             </div>

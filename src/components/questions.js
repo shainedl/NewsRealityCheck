@@ -14,7 +14,7 @@ class Questions extends Component {
 
   componentWillMount() {
     const questions = _.map(this.props.questions, (question) => {
-      question.options = _.shuffle(question.options);
+      question.options; //= _.shuffle(question.options);
       return question;
     });
     this.setState({ questions });

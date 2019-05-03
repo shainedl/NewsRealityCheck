@@ -22,7 +22,7 @@ a:hover {
 }
 
 .site-title a {
-  background-color: #6302EF;
+  background-color: #E75A6B;
   color: #fff;
   display: inline-block;
   padding: 16px;
@@ -39,7 +39,9 @@ a:hover {
 
 .question-container {
   background-color: #fff;
+  font-family: 'Oswald', sans-serif;
   padding: 20px;
+  text-align: center;
 }
 
 .question-title {
@@ -124,7 +126,7 @@ a:hover {
 }
 
 .header a{
-  color: rgb(99, 2, 239) !important;
+  color: #E75A6B !important;
 }
 
 .candidates-menu{
@@ -169,7 +171,7 @@ a:hover {
 }
 
 .home-titles a {
-  background-color: #6302EF;
+  background-color: #E75A6B;
   color: #fff;
   display: inline-block;
   text-decoration: none;
@@ -195,7 +197,7 @@ a:hover {
 } 
 
 .logo-background {
-  background-color: #6302EF;
+  background-color: #E75A6B;
 }
 
 .know-ballot {
@@ -204,7 +206,7 @@ a:hover {
   margin-left: auto;
   margin-right: auto;
   width: 300 px;
-  background-color: #6302EF;
+  background-color: #E75A6B;
   color: white;
   font-family: 'Lato', sans-serif;
   text-align: center;
