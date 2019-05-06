@@ -6,8 +6,8 @@ export default class Quiz extends Component {
   render() {
     return (
       <div className="app-container">
-        <div className="logo-background">
-          <img className="img-logo" src={`../../../assets/images/logo2.jpg`}/>
+        <div className="head-nrc">
+          <p>POLLITIC</p>
         </div>
         <h1 className="site-title">
           <a>Heartbeat Abortion Bill</a>

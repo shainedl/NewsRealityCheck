@@ -5,11 +5,8 @@ export default class HomePage extends Component {
     render() {
       return (
         <div className="home-container">
-            {/* <div className="logo-background">
-                <img className="img-logo" src={`../../../assets/images/logo2.jpg`}/>
-            </div> */}
             <div className="head-nrc">
-                <p>NEWS REALITY CHECK</p>
+                <p>POLLITIC</p>
             </div>
             <div className="know-ballot">
                 <Link to="/quiz">Get Started!</Link>
