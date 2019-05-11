@@ -1,6 +1,6 @@
 # Pollitic
 
-### Pollitic's Mission
+## Pollitic's Mission
 
 Platforms’ algorithms determine which political information one would ‘like’ seeing rather than providing a nuanced view of the political landscape. Pollitic addresses these filter bubbles by training tomorrow’s generation to have more civically engaged discussions. Using this, educators can take controversial political discussions off of Facebook comments and into the classroom.
 
